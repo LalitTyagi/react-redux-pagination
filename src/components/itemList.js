@@ -21,6 +21,7 @@ class ItemList extends Component {
               <span className="country-name text-dark d-block font-weight-bold">
                 {name}
               </span>
+              <br />
               <span className="country-region text-secondary text-uppercase">
                 {region}
               </span>
